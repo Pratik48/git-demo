@@ -1,2 +1,3 @@
 New File
 Changing file from remote repo
+Merge conflict
