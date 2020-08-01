@@ -1,3 +1,3 @@
-Merge conflict.
+Somebody changed first line.
 Modifying this file.
 I changed 3rd line.
