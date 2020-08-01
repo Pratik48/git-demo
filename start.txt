@@ -1,3 +1,3 @@
 Merge conflict.
 Modifying this file.
-Modifying file from Local.
+I changed 3rd line.
